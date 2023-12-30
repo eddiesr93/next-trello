@@ -8,7 +8,7 @@ import {
 import { Button } from '@/components/ui/button';
 import React from 'react';
 import { cn } from '@/lib/utils';
-import { Activity, CreditCard, Settings, Layout } from 'lucide-react';
+import { Activity, CreditCard, Layout, Settings } from 'lucide-react';
 import Image from 'next/image';
 import { usePathname, useRouter } from 'next/navigation';
 import { Skeleton } from '@/components/ui/skeleton';
